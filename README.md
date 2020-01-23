@@ -9,7 +9,7 @@
 5. rostopic echo /power で で累乗した値を表示する
 
 ### デモ
-https://www.youtube.com/watch?v=HpR9kfZO8aA&feature=youtu.be
+https://youtu.be/HpR9kfZO8aA
 
 ### 動作環境
 RaspberryPi3B+  
