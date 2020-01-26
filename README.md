@@ -17,4 +17,4 @@ Ubuntu 18.04 server
 ROS Melodic Morenia  
   
 ### ライセンス
-GPL
+GPLv3
